@@ -1,6 +1,0 @@
-
-Python is powerful. Python supports multi-tasking.
-This project processes large text files.
-Parallel processing improves performance.
-Text mining is useful for data analysis.
-
